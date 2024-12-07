@@ -1,1 +1,5 @@
-config.py
+# Entorno virtual de Python
+venv/
+
+# Variables de entorno
+.env
